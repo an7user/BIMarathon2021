@@ -4,8 +4,13 @@ Best performing supermarket branch
 
 Project mission and goal
 
-The growth of supermarkets in most populated cities is increasing and market competitions are also high. The dataset is one of the historical sales of the supermarket company which have been recorded in 3 different branches with 3 months data. 
-The goal of the project is to analyze and visualize the data with the purpose of establishing the best performing supermarket branch, the most popular product, and a customer satisfaction rating.
+The growth of supermarkets in most populated cities is increasing and market competition among them is tough. The dataset is based on the sales transactions history of 3 different supermarket branches, collected for 3 consequitive months od 2019. 
+
+Goal:
+
+- analyze a top performing supermarket branch 
+- find correlation of most popular product groups in each supermarket branch
+- analyze customer satisfaction indicator regarding each group of products
 
 Project attributes (dimensions and facts)
 
