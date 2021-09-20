@@ -8,7 +8,7 @@ The growth of supermarkets in most populated cities is increasing and market com
 
 Goal:
 
-- analyze a top performing supermarket branch 
+- analyze a top performing supermarket branch in Yangon, Naypyitaw, Mandalay cities. 
 - find correlation of most popular product groups in each supermarket branch
 - analyze customer satisfaction indicator regarding each group of products
 
@@ -59,4 +59,4 @@ Gross income
 ************************************************************************************
 Metrics to analyze:
 
-Will be defining branch supermarket performance trends or financial health targets by modeling and analyzing gross income margin based on the metrics number of products purchased by customers, price of each product purchased by a customer, tax fee and subtracting the cost of goods sold at each branch.
+Will be comapring branch supermarkets performance by modeling, benchmarking and analyzing gross income margin based on the metrics number of products purchased by customers, price of each product purchased by a customer, tax fee and subtracting the cost of goods sold at each branch.
