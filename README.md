@@ -59,4 +59,4 @@ Gross income
 ************************************************************************************
 Metrics to analyze:
 
-Will be comapring branch supermarkets performance by modeling, benchmarking and analyzing gross income margin based on the metrics number of products purchased by customers, price of each product purchased by a customer, tax fee and subtracting the cost of goods sold at each branch.
+Will be comparaing branch supermarkets performance by modeling, benchmarking and analyzing gross income margin based on the metrics number of products purchased by customers, price of each product purchased by a customer, tax fee and subtracting the cost of goods sold at each branch.
