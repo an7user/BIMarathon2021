@@ -14,47 +14,36 @@ Goal:
 
 Project attributes (dimensions and facts)
 
-Dimensions: 
+Dimensions:
 
-1.1.	Customer type: Type of customers, recorded by Members - for customers using a member card, and Normal - for the ones without a member card.
-
-1.2.	Gender: Gender type of a customer
-
-1.3.	Payment: Payment used by a customer for purchase (3 methods are available – Cash, Credit card and Ewallet)
-
-1.4.	Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
-
-
-****************************************************************************************
-
-2.1. Branch: Branch of supercenter (3 branches are available identified by A, B and C).
-2.2. City: Location of supercenters
-
-***************************************************************************************
-
-3.1.  Product line: General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel
-
-3.2. Date: Date of purchase (Record available from January 2019 to March 2019)
-
-3.3. Time: Purchase time (10am to 9pm)
-
-********************************************************************************
-
+Dim_Invoice (PK_Invoice_ID, Invoice, Payment, Product Line)
+Dim_Customer (PK_Customer_ID, Gender, Membership)
+Dim_Location (PK_Location_ID, Branch, City)
 Facts: 
 
-Unit price: Price of each product in USD $
+Facts:
 
-Quantity: Number of products purchased by customer
+FK_1_Invoice_ID
 
-Tax: 5% tax fee for customer buying
+FK_2_Customer_ID
 
-Total: Total price including tax
+FK_3_Location_ID
 
-COGS: Cost of goods sold
+Gross Income
 
 Gross margin percentage
 
-Gross income
+Quantity
+
+Unit price
+
+Date
+
+Time
+
+Rating
+
+Tax
 
 ************************************************************************************
 Metrics to analyze:
