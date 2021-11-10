@@ -193,11 +193,14 @@ store in relation to the selling area size and number of employees, total sales
 by store type.</p>
 
 <p class=MsoNormal style='line-height:150%'><b>Physical Data Model (A4tech Sales
-Physical model)</b></p>
+Physical Model)</b></p>
 
+<a href="https://github.com/an7user/BIMarathon2021/blob/main/dataset.zip"> ## The dataset for the project can be foung follwing this link. </a>
+
+	
 <p class=MsoNormal style='line-height:150%'>Out database will be based on a
 snowflake schema as the product and store dimensions have hierarchical subdimensions
-as shown in the images below.</p>
+as shown in the image below.</p>
 
 <p class=MsoNormal style='line-height:150%'>&nbsp;</p>
 
