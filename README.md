@@ -51,5 +51,5 @@ dimension tables)</a>
 
 ### Analyzing the Database for the presence of duplicates and NULL values (deleting if found)
 
- *Using   COUNT function to find duplicates in "dim_product_sub_cat" table
+ *Using   COUNT function to find duplicates in "dim_product_sub_cat" table*
 
