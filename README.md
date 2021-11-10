@@ -209,6 +209,7 @@ Data, Uploading to MySQL</b></p>
 
 <p class=MsoNormal style='line-height:150%'>SQL script (Creating schema, fact and
 dimension tables).</p>
+	https://github.com/an7user/BIMarathon2021/blob/main/schema_creation.sql
 
 <p class=MsoNormal style='line-height:150%'>&nbsp;</p>
 
