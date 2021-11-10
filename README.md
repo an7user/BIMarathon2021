@@ -49,4 +49,4 @@ Out database will be based on a snowflake schema as the product and store dimens
 <a href="https://github.com/an7user/BIMarathon2021/blob/main/schema_creation.sql">SQL script (Creating schema, fact and
 dimension tables)</a>
 
-### Analyzing the Datase for the presence of duplicates and mull values (deleting if found)
+### Analyzing the Database for the presence of duplicates and NULL values (deleting if found)
