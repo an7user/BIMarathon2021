@@ -33,7 +33,7 @@ Project attributes (dimensions and facts)
 6.	Total sales amount
 7.	Sales date
 8.	Store ID
-9.	
+
 ### Metrics to analyze:
 
 Total and net sales by brand, gross profit percentage by country, total sales by month, gross profit percentage by month, gross profit percentage by product subcategory, average discount by promotion, total discount amount offered by brand, total cost of sales per store in relation to the selling area size and number of employees, total sales by store type.
