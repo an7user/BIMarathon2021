@@ -97,7 +97,7 @@ COMPUTER HARDWARE AND DIGITAL PRODUCTS GLOBAL SALES PERFORMANCE ANALYSIS FOR
 sustainable organizational structure and growing strong partnerships to achieve
 an unbeatable online shopping experience for the latest and greatest products
 and services is of topmost importance for any retailer nowadays. Which country,
-store type, brand is selling the best? What is the impact sales areas and number
+store type, brand is selling the best? What is the impact of sales areas and number
 of employees on the total cost of sales? Which discounts are most effective?
 Which product categories are top selling across different regions?</p>
 
