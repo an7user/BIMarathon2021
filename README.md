@@ -207,10 +207,8 @@ as shown in the images below.</p>
 <p class=MsoNormal style='line-height:150%'><b>Data aggregation, Pre-Processing
 Data, Uploading to MySQL</b></p>
 
-<p class=MsoNormal style='line-height:150%'>SQL script (Creating schema, fact and
-dimension tables).</p>
-	https://github.com/an7user/BIMarathon2021/blob/main/schema_creation.sql
-
+<a href="https://github.com/an7user/BIMarathon2021/blob/main/schema_creation.sql">SQL script (Creating schema, fact and
+dimension tables)</a>
 <p class=MsoNormal style='line-height:150%'>&nbsp;</p>
 
 </div>
