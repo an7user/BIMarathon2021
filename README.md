@@ -132,3 +132,10 @@ for months of January and Februaty 2020*
 *Using LEAD WINDOW function to the order date and the next order date of each product name*
 
 ![image](https://user-images.githubusercontent.com/90646142/141378520-6b3ee72a-7ff8-482b-874f-ce295ebd1ee7.png)
+
+*Convertig varchar dim_date_fkey values from "fact_sales" table intto the DATE values by adding the new column "trans_date" and casting the values from "dim_date_fkey" column*
+
+![image](https://user-images.githubusercontent.com/90646142/141379205-7eb42c15-d4af-4cb0-97b4-7fabe61a65c7.png)
+
+
+
