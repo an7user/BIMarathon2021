@@ -75,3 +75,9 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 
 ### The full script for finding duplicates can be found <a href="https://github.com/an7user/BIMarathon2021/blob/main/duplicates_check.sql">here</a>.
 
+### Using advanced SQL functions to analyze the dataset
+
+*Using CASE WHEN function to find the best product for income generation (highest price and the biggest amount sold)*
+
+![image](https://user-images.githubusercontent.com/90646142/141214119-84ccf3e0-a7cf-4623-b017-660a102fe960.png)
+![image](https://user-images.githubusercontent.com/90646142/141214120-bbfd8fcf-8195-4d97-9a07-bb82a0d96a3f.png)
