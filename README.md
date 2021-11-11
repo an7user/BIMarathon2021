@@ -73,3 +73,5 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 
 ![image](https://user-images.githubusercontent.com/90646142/141213205-7d41b170-c832-4d75-9ce7-000e0e386bf0.png)
 
+The full script for finding duplicates can be found <a href="https://github.com/an7user/BIMarathon2021/blob/main/duplicates_check.sql">here</a>.
+
