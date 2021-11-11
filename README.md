@@ -62,3 +62,9 @@ No duplicates retrieved from the query.
 ![image](https://user-images.githubusercontent.com/90646142/141212675-a4bf10a0-cbbc-42d6-a360-99115ffd5e19.png)
 
 No duplicates retrieved from the query.
+
+*Method 3. Finding duplicates in table: fact_sales using ROW_MUMBER function*
+   
+ ![image](https://user-images.githubusercontent.com/90646142/141212983-eb76d2eb-7211-44a8-8454-8cb8f07a28a4.png)
+
+Each row returned value equal to 1, no duplicates found.  
