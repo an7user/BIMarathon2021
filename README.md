@@ -80,7 +80,7 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 
 ![image](https://user-images.githubusercontent.com/90646142/141214953-a497c590-9a48-465a-ad95-02b11f18facc.png)
 
-### <a href="https://github.com/an7user/BIMarathon2021/blob/main/duplicates_check.sql">The full script for finding duplicates</a>.
+### <a href="https://github.com/an7user/BIMarathon2021/blob/main/duplicates_check.sql">The full script for finding duplicates</a>
 
 ### Using advanced SQL functions to analyze the dataset
 
