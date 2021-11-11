@@ -113,3 +113,8 @@ for months of January and Februaty 2020*
 *Using  Recursive CTE* for finding stores with zero sales for a certain date*
 
 ![image](https://user-images.githubusercontent.com/90646142/141217451-ec4e3dd3-752a-4322-8947-f03c931a1454.png)
+
+*Pivoting data for Jan- Mar 2020 with CASE WHEN clause*
+
+![image](https://user-images.githubusercontent.com/90646142/141217656-20af1705-109e-49f6-94dc-a6c201130e3f.png)
+
