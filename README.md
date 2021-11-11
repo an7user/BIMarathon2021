@@ -46,7 +46,7 @@ Out database will be based on a snowflake schema as the product and store dimens
 
 ![sales_physical](https://user-images.githubusercontent.com/90646142/141209407-653c38e6-e6e5-44fb-84c6-ad17e4375e91.png)
 
-<a href="https://github.com/an7user/BIMarathon2021/blob/main/schema_creation.sql">SQL script (Creating schema, fact and
+### <a href="https://github.com/an7user/BIMarathon2021/blob/main/schema_creation.sql">SQL script (Creating schema, fact and
 dimension tables)</a>
 
 ### Analyzing the Database for the presence of duplicates and NULL values (deleting if found)
@@ -77,7 +77,7 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 
 ![image](https://user-images.githubusercontent.com/90646142/141214655-75c2e3ad-b3fe-47be-a6be-354b3209b77b.png)
 
-*USING NULLIF function to substitute the 'European Spring Promotion' promotion name in table: "dim_promotion" with `NULL`*
+*Using NULLIF function to substitute the 'European Spring Promotion' promotion name in table: "dim_promotion" with `NULL`*
 
 ![image](https://user-images.githubusercontent.com/90646142/141214953-a497c590-9a48-465a-ad95-02b11f18facc.png)
 
