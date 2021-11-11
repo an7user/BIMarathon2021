@@ -100,3 +100,7 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 *USING DISTINCT function to find the unique values for the unit price from "fact_sales" table*
 
 ![image](https://user-images.githubusercontent.com/90646142/141215592-410f4bfa-38ff-46b6-b581-35fca7e14f08.png)
+
+*Finding the same price instances from "fact sales" table*
+
+![image](https://user-images.githubusercontent.com/90646142/141215778-2754bb54-0f8b-4334-9170-cd805da9ae83.png)
