@@ -57,7 +57,7 @@ dimension tables)</a>
 
 No duplicates retrieved from the query.
 
-*Method 2. Finding duplicates in "fact_sales" table using Common Table Expression
+*Method 2. Finding duplicates in "fact_sales" table using Common Table Expression*
 
 ![image](https://user-images.githubusercontent.com/90646142/141212675-a4bf10a0-cbbc-42d6-a360-99115ffd5e19.png)
 
