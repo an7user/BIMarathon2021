@@ -73,6 +73,11 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 
 ![image](https://user-images.githubusercontent.com/90646142/141213205-7d41b170-c832-4d75-9ce7-000e0e386bf0.png)
 
+*Replacing NULL value with the 'N/A' value in table: "dim_promotion" using a COALESCE function*
+
+![image](https://user-images.githubusercontent.com/90646142/141214655-75c2e3ad-b3fe-47be-a6be-354b3209b77b.png)
+
+
 ### The full script for finding duplicates can be found <a href="https://github.com/an7user/BIMarathon2021/blob/main/duplicates_check.sql">here</a>.
 
 ### Using advanced SQL functions to analyze the dataset
