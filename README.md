@@ -118,3 +118,6 @@ for months of January and Februaty 2020*
 
 ![image](https://user-images.githubusercontent.com/90646142/141217656-20af1705-109e-49f6-94dc-a6c201130e3f.png)
 
+*USING SELF JOIN to find instances of unit price being bigger than the gross income*
+
+![image](https://user-images.githubusercontent.com/90646142/141217863-273171a3-5055-4d1b-b1b6-17a8fefad05b.png)
