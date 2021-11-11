@@ -104,10 +104,10 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 
 ![image](https://user-images.githubusercontent.com/90646142/141215778-2754bb54-0f8b-4334-9170-cd805da9ae83.png)
 
-*Using Common Table Expression to find invoices with unit prices that are higher than average per 'Electronic accessories' and 'Sports and Travel' product lines 
+*Using Common Table Expressions to find unit prices with higher than average price of the items sold under 'North America Spring Promotion'  
 for months of January and Februaty 2020*
 
-![image](https://user-images.githubusercontent.com/90646142/141217317-d8e2f3c7-9a46-4263-9a5f-5e3ec979c540.png)
+![image](https://user-images.githubusercontent.com/90646142/141380212-a1b8d462-954d-402f-bbe1-448cc10ca380.png)
 
 *Using  Recursive CTE* for finding stores with zero sales for a certain date*
 
