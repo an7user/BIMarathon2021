@@ -125,3 +125,6 @@ for months of January and Februaty 2020*
 
 ![image](https://user-images.githubusercontent.com/90646142/141370842-b6e88a80-a64a-4fbe-9a3b-fb48c9f85fd6.png)
 
+*Using CTE and LAG function statement that returns sales quantity of every brand and product sub category in a specific month and the previous month*
+
+![image](https://user-images.githubusercontent.com/90646142/141376516-4d323127-7b41-4c9c-8e21-864992b59014.png)
