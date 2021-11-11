@@ -46,8 +46,7 @@ Out database will be based on a snowflake schema as the product and store dimens
 
 ![sales_physical](https://user-images.githubusercontent.com/90646142/141209407-653c38e6-e6e5-44fb-84c6-ad17e4375e91.png)
 
-### <a href="https://github.com/an7user/BIMarathon2021/blob/main/schema_creation.sql">SQL script (Creating schema, fact and
-dimension tables)</a>
+### <a href="https://github.com/an7user/BIMarathon2021/blob/main/schema_creation.sql">SQL script (Creating schema, fact and dimension tables)</a>
 
 ### Analyzing the Database for the presence of duplicates and NULL values (deleting if found)
 
