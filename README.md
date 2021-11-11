@@ -128,3 +128,7 @@ for months of January and Februaty 2020*
 *Using CTE and WINDOW LAG function statement that returns sales quantity of every brand and product sub category in a specific month and the previous month*
 
 ![image](https://user-images.githubusercontent.com/90646142/141376516-4d323127-7b41-4c9c-8e21-864992b59014.png)
+
+*Using LEAD WINDOW function to the order date and the next order date of each product name*
+
+![image](https://user-images.githubusercontent.com/90646142/141378520-6b3ee72a-7ff8-482b-874f-ce295ebd1ee7.png)
