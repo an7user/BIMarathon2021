@@ -117,6 +117,11 @@ for months of January and Februaty 2020*
 
 ![image](https://user-images.githubusercontent.com/90646142/141217656-20af1705-109e-49f6-94dc-a6c201130e3f.png)
 
-*USING SELF JOIN to find instances of unit price being bigger than the gross income*
+*Using SELF JOIN to find unit prices higher than the gross income*
 
 ![image](https://user-images.githubusercontent.com/90646142/141217863-273171a3-5055-4d1b-b1b6-17a8fefad05b.png)
+
+*Using window functions RANK, DENSE_RANK to rank the biggest sales amounts with the corresponding stores in different countries*
+
+![image](https://user-images.githubusercontent.com/90646142/141370842-b6e88a80-a64a-4fbe-9a3b-fb48c9f85fd6.png)
+
