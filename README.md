@@ -137,5 +137,5 @@ for months of January and Februaty 2020*
 
 ![image](https://user-images.githubusercontent.com/90646142/141379205-7eb42c15-d4af-4cb0-97b4-7fabe61a65c7.png)
 
-
-
+### <a href="https://github.com/an7user/BIMarathon2021/blob/main/advanced.sql">The full script for advanced MySQL statements described in this section</a>
+The full script for advanced MySQL statements described in this section
