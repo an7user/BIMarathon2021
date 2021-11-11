@@ -67,4 +67,9 @@ No duplicates retrieved from the query.
    
  ![image](https://user-images.githubusercontent.com/90646142/141212983-eb76d2eb-7211-44a8-8454-8cb8f07a28a4.png)
 
-Each row returned value equal to 1, no duplicates found.  
+Each row returned value equal to 1, no duplicates found.
+
+We haven't found any duplicates in the schema tables, if found any duplicates the following SQL using the ROW_NUMBER() Function script would come in handy.
+
+![image](https://user-images.githubusercontent.com/90646142/141213205-7d41b170-c832-4d75-9ce7-000e0e386bf0.png)
+
