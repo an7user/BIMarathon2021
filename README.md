@@ -88,3 +88,9 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 *Using CASE WHEN function to find the best product for income generation (highest price and the biggest amount sold)*
 
 ![image](https://user-images.githubusercontent.com/90646142/141214120-bbfd8fcf-8195-4d97-9a07-bb82a0d96a3f.png)
+
+*Using GREATEST function to return the unit price of all the products with the price below 50 USD as 50*
+
+![image](https://user-images.githubusercontent.com/90646142/141215335-1eb9486e-7640-4844-989c-f0174ef452fb.png)
+
+
