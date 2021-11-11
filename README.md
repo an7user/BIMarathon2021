@@ -97,3 +97,6 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 
 ![image](https://user-images.githubusercontent.com/90646142/141215419-fb3f2920-6e58-4154-be7d-29e9d9d5fb6c.png)
 
+*USING DISTINCT function to find the unique values for the unit price from "fact_sales" table*
+
+![image](https://user-images.githubusercontent.com/90646142/141215592-410f4bfa-38ff-46b6-b581-35fca7e14f08.png)
