@@ -93,4 +93,7 @@ We haven't found any duplicates in the schema tables, if any duplicates could be
 
 ![image](https://user-images.githubusercontent.com/90646142/141215335-1eb9486e-7640-4844-989c-f0174ef452fb.png)
 
+*Using LEAST function to return the unit price of all the products with the price above 2800 USD*
+
+![image](https://user-images.githubusercontent.com/90646142/141215419-fb3f2920-6e58-4154-be7d-29e9d9d5fb6c.png)
 
