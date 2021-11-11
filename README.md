@@ -110,3 +110,6 @@ for months of January and Februaty 2020*
 
 ![image](https://user-images.githubusercontent.com/90646142/141217317-d8e2f3c7-9a46-4263-9a5f-5e3ec979c540.png)
 
+*Using  Recursive CTE* for finding stores with zero sales for a certain date*
+
+![image](https://user-images.githubusercontent.com/90646142/141217451-ec4e3dd3-752a-4322-8947-f03c931a1454.png)
