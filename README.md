@@ -139,3 +139,8 @@ for months of January and Februaty 2020*
 
 ### <a href="https://github.com/an7user/BIMarathon2021/blob/main/advanced.sql">The full script for advanced MySQL statements described in this section</a>
 
+### Data Visualization with Power BI
+
+### The Dasboard - A4tech Sales Overview Analytics
+
+![image](https://user-images.githubusercontent.com/90646142/141515893-3e82354a-0e6a-4dfe-b420-abf62540a32b.png)
