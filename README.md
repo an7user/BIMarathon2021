@@ -163,4 +163,7 @@ Report 4 is the visualization of different discount promotions – duration (day
 
 ![image](https://user-images.githubusercontent.com/90646142/141524239-2e5707dc-a64a-48f3-b5bc-9c0f38cc4e31.png)
 
+Report 5 is the visual representation of online and retail stores performance by the country, selling area size, total cost as impacted by the store’s selling area size, employee per selling area density.
+
+![image](https://user-images.githubusercontent.com/90646142/141528823-81a604fe-7dd8-41b2-a834-0c84383dc769.png)
 
