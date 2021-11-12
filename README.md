@@ -159,3 +159,8 @@ Report 3 is the visual representation of the products and product subcategories 
 
 ![image](https://user-images.githubusercontent.com/90646142/141523272-bbda8684-aeaa-4481-a903-4ebd81f5362e.png)
 
+Report 4 is the visualization of different discount promotions – duration (days), total discount by brand of the product, number of products with prices over $ 200 offered by the manufacturers as compared to the general number of products offered by the company, discount per unit with the average unit price.
+
+![image](https://user-images.githubusercontent.com/90646142/141524239-2e5707dc-a64a-48f3-b5bc-9c0f38cc4e31.png)
+
+
