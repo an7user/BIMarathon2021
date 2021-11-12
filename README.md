@@ -147,7 +147,10 @@ for months of January and Februaty 2020*
 
 The Dashboard is the representation of 6 reports.
 
-The first report is the general overview of the sales across different continents, stratified by the total store number, total sales by brand, total sales by country and product type.
+Report 1 is the general overview of the total sales across different continents, stratified by the total store number, total sales by brand, total sales by country and product type.
 
 ![image](https://user-images.githubusercontent.com/90646142/141519692-7e21b8a3-8e69-43ac-a1a2-a0ecf4fd50c6.png)
 
+Report 2 is the further breakdown of the sales including the total and net sales by brand, gross profit percentage for each country where the business is operating, total sales breakdown for each month of 2020, gross profit percentage for each month of 2020.
+
+![image](https://user-images.githubusercontent.com/90646142/141522781-5cdc0f5e-c381-4abe-9ed1-032d8361c31e.png)
