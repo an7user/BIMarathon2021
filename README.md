@@ -143,4 +143,6 @@ for months of January and Februaty 2020*
 
 ### The Dashboard - A4tech Sales Overview Analytics
 
-![image](https://user-images.githubusercontent.com/90646142/141515893-3e82354a-0e6a-4dfe-b420-abf62540a32b.png)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZhMTY5OGItMmZhMy00ZjgzLWE5YTQtM2I2YjFjMTg5YjkxIiwidCI6IjI0OTc5ODI4LTIwNGUtNDZlYi04ZGM2LWU2Y2ZhNjI4ZGM4MiJ9">![image](https://user-images.githubusercontent.com/90646142/141515893-3e82354a-0e6a-4dfe-b420-abf62540a32b.png)</a>
+
+https://app.powerbi.com/view?r=eyJrIjoiMjZhMTY5OGItMmZhMy00ZjgzLWE5YTQtM2I2YjFjMTg5YjkxIiwidCI6IjI0OTc5ODI4LTIwNGUtNDZlYi04ZGM2LWU2Y2ZhNjI4ZGM4MiJ9
