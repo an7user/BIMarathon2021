@@ -141,6 +141,6 @@ for months of January and Februaty 2020*
 
 ### Data Visualization with Power BI
 
-### The Dasboard - A4tech Sales Overview Analytics
+### The Dashboard - A4tech Sales Overview Analytics
 
 ![image](https://user-images.githubusercontent.com/90646142/141515893-3e82354a-0e6a-4dfe-b420-abf62540a32b.png)
