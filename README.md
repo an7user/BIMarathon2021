@@ -147,6 +147,6 @@ for months of January and Februaty 2020*
 
 The Dashboard is the representation of 6 reports.
 
-The first report is the general overview of the sales across different continents, stratified by the total sores, total sales by brand, total sales by country and product type.
+The first report is the general overview of the sales across different continents, stratified by the total store number, total sales by brand, total sales by country and product type.
 ![image](https://user-images.githubusercontent.com/90646142/141519692-7e21b8a3-8e69-43ac-a1a2-a0ecf4fd50c6.png)
 
