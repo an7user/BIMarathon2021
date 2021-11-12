@@ -167,3 +167,6 @@ Report 5 is the visual representation of online and retail stores performance by
 
 ![image](https://user-images.githubusercontent.com/90646142/141528823-81a604fe-7dd8-41b2-a834-0c84383dc769.png)
 
+Report 6 is visualizing gross profit percentage by a scatter chart with the size of total sales for each country.
+
+![image](https://user-images.githubusercontent.com/90646142/141529261-945bbce4-1979-435e-a8c0-ea882198fda2.png)
