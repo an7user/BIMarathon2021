@@ -17,10 +17,15 @@ Project attributes (dimensions and facts)
 ### Dimensions: 
 
 1.	Product dimension (product name, product description, manufacturer name, brand, class name - deluxe, economy, regular)
+
 1.1.	Product subcategory (product subcategory name)
+
 1.2.	Product category (product category name)
+
 2.	Store dimension (store ID, store type – online, retail, store name, status – operational, non-operational)
+
 2.1.	Geographical location (continent, country, city)
+
 3.	Promotion (promotion name, discount percent, promotion start date, promotion end date)
 
 ### Facts:
