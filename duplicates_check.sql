@@ -54,11 +54,11 @@ WHERE Duplicates > 1;
  
 -- Deliting duplicates from table: fact_sales using the ROW_NUMBER() Function 
 
- DELETE FROM fact_sales WHERE fact_id IN(
-   SELECT fact_id FROM (SELECT fact_id, ROW_NUMBER() 
+  DELETE FROM fact_sales WHERE fact_sales_id IN(
+   SELECT fact_sales_id FROM (SELECT fact_sales_id, ROW_NUMBER() 
    over (PARTITION BY fact_sales_id ORDER BY fact_sales_id) as Duplicates  
    FROM fact_sales) AS temp_table WHERE Duplicates >1
    );
     
-  select * from fact_sales;     
+
 
