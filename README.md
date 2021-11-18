@@ -75,7 +75,8 @@ Each row returned value equal to 1, no duplicates found.
 
 We haven't found any duplicates in the schema tables, if any duplicates could be found, the following SQL using the ROW_NUMBER() Function script would come in handy.
 
-![image](https://user-images.githubusercontent.com/90646142/141213205-7d41b170-c832-4d75-9ce7-000e0e386bf0.png)
+![image](https://user-images.githubusercontent.com/90646142/142473609-06ea8701-1431-4506-b0f0-82fdf6e867b6.png)
+
 
 *Replacing NULL value with the 'N/A' value in table: "dim_promotion" using a COALESCE function*
 
